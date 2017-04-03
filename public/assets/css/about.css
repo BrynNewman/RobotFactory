@@ -1,0 +1,13 @@
+#teammembers > img
+{
+    height:200px; 
+    width:auto;
+}
+
+#members{
+	background-color: #0F0F0F;
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+	color: #FAE9D5;
+}
